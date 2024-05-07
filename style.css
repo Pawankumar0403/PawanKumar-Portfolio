@@ -1,0 +1,108 @@
+        *{
+            padding: 0px;
+            margin: 0px;
+        }
+
+        body{
+            font-family: "Young Serif", serif;
+        }
+
+        .section-one{
+            background-color: rgb(249, 219, 160);
+            color: rgb(232, 63, 63);
+            padding: 20px;
+        }
+
+        .section-one__name{
+            font-size: 35px;
+        }
+
+        .section-one__role{     
+            font-size: 20px;
+            margin-top: 10px;
+            margin-bottom: 15px;
+        }
+
+        .section-one__contact{
+            background-color: teal;
+            color: beige;
+            text-decoration: none;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            border-radius: 25px;
+        }
+
+        .container{
+            padding: 40px;
+            background-color: whitesmoke;
+        }
+
+        .section-two{
+            margin-top: 20px;
+        }
+        
+        .section-two__desc{
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        .section-three{
+            background-color: #6462FD;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            display: inline-block;
+            height: 200px;
+            width: 450px;
+            vertical-align: top;
+        }
+        
+        .section-three__title{
+            margin-bottom: 10px;
+        }
+
+        li{
+            list-style: none;
+        }
+
+        .section-four{
+            background-color: orange;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            display: inline-block;
+            height: 200px;
+            width: 900px;
+        }
+
+        .section-four__title{
+            margin-bottom: 10px;
+        }
+
+        .section-five{
+            background-color: rgb(1, 92, 1);
+            color: white;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .section-six{
+            background-color: black;
+            color: white;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .section-six__git{
+            color: lightblue;
+        }
+
+        .section-six__link{
+            color: lightblue;
+        }
+
+        .section-six__name{
+            margin-top: 10px;
+        }
